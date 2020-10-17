@@ -505,7 +505,7 @@ body.section-show .transition-mask:before{
 }
 .front-person-titles > span{
 	position:absolute;
-	z-index:5;
+	z-index:10;
 	display:block;
 	width:100%;
 	font-family:Hind, sans-serif;
